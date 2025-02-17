@@ -1,81 +1,84 @@
-# Hello there, I'm Cornelius Yoga
-
-> *"Code that works is not enough; it must be elegant, efficient, and maintainable."*
-
-<p align="center">
-  <a href="https://instagram.com/corneliusyoga"><img alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href="https://linkedin.com/in/cornelius-yoga-783b6a291"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-  <a href="https://czy.digital"><img alt="Portfolio" src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=safari&logoColor=white"/></a>
-</p>
-
-## 🚀 About Me
-
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/CZY774/CZY774/main/wave.gif">
-
-I'm a passionate full-stack developer with a knack for creating elegant solutions to complex problems. I believe in clean, maintainable code that stands the test of time. By day, I craft robust applications; by night, I explore new technologies to stay ahead of the curve.
-
-## 💻 Tech Arsenal
-
-<table>
-  <tr>
-    <td valign="top" width="33%">
-      <h3 align="center">Languages</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-        <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
-        <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white" alt="Java" />
-        <img src="https://img.shields.io/badge/Kotlin-%230095D5.svg?style=for-the-badge&logo=kotlin&logoColor=white" alt="Kotlin" />
-        <img src="https://img.shields.io/badge/R-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Frameworks</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel" />
-        <img src="https://img.shields.io/badge/Bootstrap-%237952B3.svg?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-        <img src="https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-        <img src="https://img.shields.io/badge/HTML5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-        <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-      </div>
-    </td>
-    <td valign="top" width="33%">
-      <h3 align="center">Infrastructure</h3>
-      <div align="center">
-        <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-        <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-        <img src="https://img.shields.io/badge/SQLite-%23003B57.svg?style=for-the-badge&logo=sqlite&logoColor=white" alt="SQLite" />
-        <img src="https://img.shields.io/badge/Redis-%23DC382D.svg?style=for-the-badge&logo=redis&logoColor=white" alt="Redis" />
-        <img src="https://img.shields.io/badge/GCP-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
-      </div>
-    </td>
-  </tr>
-</table>
-
-## 🔥 My GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=CZY774&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="GitHub Stats" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CZY774&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117" alt="Top Languages" width="48%" />
+  <h1>Selamat Datang! 👋</h1>
+  <h3>I'm a Full-Stack Developer with a passion for elegant solutions</h3>
 </div>
 
-## 🏆 GitHub Trophies
+<p align="center">
+  <a href="https://www.instagram.com/corneliusyoga" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
+  <a href="https://www.linkedin.com/in/cornelius-yoga-783b6a291" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  <a href="https://czy.digital" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=white" alt="Portfolio" />
+  </a>
+</p>
+
+## About Me
+
+I'm a versatile developer who bridges the gap between frontend elegance and backend robustness. With a keen eye for detail and a commitment to clean code, I build solutions that not only work flawlessly but also provide exceptional user experiences.
+
+```python
+class Developer:
+    def __init__(self):
+        self.name = "Cornelius Yoga"
+        self.role = "Full-Stack Developer"
+        self.language_spoken = ["id_ID", "en_US"]
+        self.code = ["Python", "JavaScript", "PHP", "Java", "Kotlin", "R"]
+        self.challenge = "Building seamless experiences across the entire stack"
+        
+    def say_hi(self):
+        print("Thanks for dropping by! Let's build something amazing together.")
+        
+me = Developer()
+me.say_hi()
+```
+
+## 🛠️ Tech Stack
+
+<div align="center">
+
+### Languages & Frameworks
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=java&logoColor=white)
+![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=flat-square&logo=kotlin&logoColor=white)
+![R](https://img.shields.io/badge/R-276DC3?style=flat-square&logo=r&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+
+### Database & Infrastructure
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=flat-square&logo=sqlite&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![Google Cloud Run](https://img.shields.io/badge/Google_Cloud_Run-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
+![Web Hosting](https://img.shields.io/badge/Web_Hosting-FF6C37?style=flat-square&logo=cpanel&logoColor=white)
+
+</div>
+
+## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=CZY774&theme=nord&column=7&no-frame=true&margin-w=15&margin-h=15" alt="GitHub Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=CZY774&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CZY774&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </p>
+
+## 🚀 Current Focus
+
+I'm currently exploring microservices architecture and improving my skills in cloud-native development. Always looking to collaborate on innovative projects that push the boundaries of what's possible.
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=react" alt="Random Dev Quote" />
+</div>
 
 ---
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/CZY774/CZY774/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CZY774&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
-  <img src="https://img.shields.io/github/followers/CZY774?style=social" alt="GitHub Followers" />
-</div>
-
-<div align="center">
-  <sub>Made by Cornelius Ardhani Yoga Pratama</sub>
+<b>Let's connect and build the future together!</b>
 </div>
