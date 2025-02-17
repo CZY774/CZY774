@@ -1,8 +1,4 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;Full-stack+Developer;Problem+Solver;Code+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
-</div>
-
-# Hello there, I'm Cornelius Yoga <img src="https://raw.githubusercontent.com/CZY774/CZY774/main/wave.gif" width="30px">
+# Hello there, I'm Cornelius Yoga
 
 > *"Code that works is not enough; it must be elegant, efficient, and maintainable."*
 
@@ -14,7 +10,7 @@
 
 ## 🚀 About Me
 
-<img align="right" alt="Coding" width="300" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/CZY774/CZY774/main/wave.gif">
 
 I'm a passionate full-stack developer with a knack for creating elegant solutions to complex problems. I believe in clean, maintainable code that stands the test of time. By day, I craft robust applications; by night, I explore new technologies to stay ahead of the curve.
 
