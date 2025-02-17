@@ -1,8 +1,14 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0366D6&height=200&section=header&text=Hello%20there!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=30" alt="Header" />
-  <h1 style="border: none; margin-top: -50px;">I'm <span style="color:#0366D6">Cornelius Yoga</span></h1>
-  <p style="font-size: 18px;">Full-Stack Developer crafting elegant digital experiences</p>
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation" width="800" />
+  <div style="background-color:#0d1117; padding:40px 20px; border-radius:10px; margin-bottom:30px">
+    <span style="font-size:14px; background-color:#1f6feb; color:white; padding:4px 12px; border-radius:20px;">Hello there!</span>
+    <h1 style="font-size:52px; margin-top:20px; margin-bottom:10px; background:linear-gradient(90deg, #4f97ff, #275ea6); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">CORNELIUS <span style="font-weight:300">YOGA</span></h1>
+    <p style="color:#8b949e; font-size:18px; max-width:600px; margin:0 auto 20px;">Transforming ideas into impactful digital experiences through innovative solutions and technical excellence.</p>
+    <div style="display:flex; justify-content:center; gap:20px; margin-top:25px;">
+      <span style="background-color:#161b22; color:#58a6ff; padding:6px 14px; border-radius:6px; font-size:14px;">Full-Stack Developer</span>
+      <span style="background-color:#161b22; color:#58a6ff; padding:6px 14px; border-radius:6px; font-size:14px;">Multimedia Creator</span>
+      <span style="background-color:#161b22; color:#58a6ff; padding:6px 14px; border-radius:6px; font-size:14px;">Problem Solver</span>
+    </div>
+  </div>
 </div>
 
 ## 👨‍💻 About Me
@@ -71,7 +77,7 @@ fun main() {
   <h2>Get In Touch</h2>
   <a href="https://www.instagram.com/corneliusyoga" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;
   <a href="https://www.linkedin.com/in/cornelius-yoga-783b6a291" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-  <a href="https://www.youtube.com/c/CorneliusYoga" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>&nbsp;
+  <a href="https://www.youtube.com/channel/UCj0TlW5vLO6r_Nlwc8oFBpw" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>&nbsp;
   <a href="https://czy.digital" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"></a>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=CZY774&style=flat-square&color=0366D6" alt="Profile Views" />
