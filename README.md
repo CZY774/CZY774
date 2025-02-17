@@ -25,7 +25,7 @@ fun main() {
 }
 ```
 
-## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" alt="tools"> Tech Stack
+## <img src="https://media.giphy.com/media/Day1AgFfMBsrL6BTpF/giphy.gif" width="25px" alt="tools"> Tech Stack
 ### <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25px" alt="computer"> Languages & Frameworks
 <div align="center">
   <a href="#">
