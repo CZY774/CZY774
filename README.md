@@ -33,18 +33,17 @@
 ## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username={username}&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username={username}&layout=compact&theme=react&hide_border=true" alt="Most Used Languages" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=CZY774&show_icons=true&theme=react&hide_border=true" alt="GitHub Stats" height="170"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=CZY774&layout=compact&theme=react&hide_border=true" alt="Most Used Languages" height="170"/>
 </div>
 
 ## 📫 Hubungi Saya
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/{username})
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:{email Anda})
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.{website Anda})
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/cornelius-yoga-783b6a291)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white)](https://www.czy.digital)
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username={username}&style=flat-square&color=blue" alt="Profile views"/>
+  <img src="https://komarev.com/ghpvc/?username=CZY774&style=flat-square&color=blue" alt="Profile views"/>
 </div>
