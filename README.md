@@ -1,6 +1,7 @@
 <div align="center">
-  <h1>Hello there! 👋</h1>
-  <h3>I'm a Full-Stack Developer with a passion for elegant solutions</h3>
+  <h1>Cornelius Yoga</h1>
+  <h4>Hello there! 👋</h4>
+  <h3>Full-Stack Developer with a passion for elegant solutions</h3>
 </div>
 
 <p align="center">
@@ -19,20 +20,23 @@
 
 I'm a versatile developer who bridges the gap between frontend elegance and backend robustness. With a keen eye for detail and a commitment to clean code, I build solutions that not only work flawlessly but also provide exceptional user experiences.
 
-```python
-class Developer:
-    def __init__(self):
-        self.name = "Cornelius Yoga"
-        self.role = "Full-Stack Developer"
-        self.language_spoken = ["id_ID", "en_US"]
-        self.code = ["Python", "JavaScript", "PHP", "Java", "Kotlin", "R"]
-        self.challenge = "Building seamless experiences across the entire stack"
-        
-    def say_hi(self):
-        print("Thanks for dropping by! Let's build something amazing together.")
-        
-me = Developer()
-me.say_hi()
+```kotlin
+class Developer {
+    val name = "Muhammad Dzaki"
+    val role = "Full-Stack Developer"
+    val languagesSpoken = listOf("id_ID", "en_US")
+    val codeWith = listOf("Kotlin", "JavaScript", "Python", "PHP", "Java", "C++", "R")
+    val challenge = "Building seamless experiences across the entire stack"
+    
+    fun sayHi() {
+        println("Thanks for dropping by! Let's build something amazing together.")
+    }
+}
+
+fun main() {
+    val me = Developer()
+    me.sayHi()
+}
 ```
 
 ## 🛠️ Tech Stack
@@ -80,5 +84,8 @@ I'm currently exploring microservices architecture and improving my skills in cl
 ---
 
 <div align="center">
-<b>Let's connect and build the future together!</b>
+<b>Let's collaborate!</b>
+</div>
+<div align="right">
+  <i>Made by Cornelius Ardhani Yoga Pratama</i>
 </div>
