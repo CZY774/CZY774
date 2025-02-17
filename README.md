@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation" width="800" />
 </div>
 
-## 👨‍💻 About Me
+## <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="25px" alt="programmer"> About Me
 I'm a versatile developer who bridges the gap between frontend elegance and backend robustness. With a keen eye for detail and a commitment to clean code, I build solutions that not only work flawlessly but also provide exceptional user experiences.
 
 ```kotlin
@@ -25,8 +25,8 @@ fun main() {
 }
 ```
 
-## 🛠️ Tech Stack
-### 💻 Languages & Frameworks
+## <img src="https://media.giphy.com/media/jSKBmKkvo2dPQQtsR1/giphy.gif" width="25px" alt="tools"> Tech Stack
+### <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25px" alt="computer"> Languages & Frameworks
 <div align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=python,js,php,java,kotlin,cpp,c,r&perline=8" alt="Programming Languages" />
@@ -38,7 +38,7 @@ fun main() {
   </a>
 </div>
 
-### 🗄️ Database & Infrastructure
+### <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="25px" alt="database"> Database & Infrastructure
 <div align="center">
   <a href="#">
     <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,redis,gcp&perline=5" alt="Database & Infrastructure" />
@@ -46,7 +46,7 @@ fun main() {
 </div>
 <br/>
 
-## 📊 GitHub Stats
+## <img src="https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif" width="25px" alt="stats"> GitHub Stats
 <p align="center">
   <a href="https://github.com/CZY774">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CZY774&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1f1f1f&text_color=ffffff&icon_color=58a6ff&title_color=58a6ff" alt="GitHub Stats"/>
@@ -54,7 +54,7 @@ fun main() {
   </a>
 </p>
 
-## 🚀 Quotes of the day
+## <img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="25px" alt="rocket"> Quotes of the day
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
@@ -64,7 +64,7 @@ fun main() {
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=CZY774&theme=tokyonight&hide_border=true&background=1f1f1f&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=ffffff" alt="GitHub Streak" />
 </div>
 
-## Get In Touch <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="waving hand">
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="waving hand"> Get In Touch
 <div align="center">
   <a href="https://www.instagram.com/corneliusyoga" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;
   <a href="https://www.linkedin.com/in/cornelius-yoga-783b6a291" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
