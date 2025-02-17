@@ -49,19 +49,18 @@ fun main() {
 ## <img src="https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif" width="25px" alt="stats"> GitHub Stats
 <p align="center">
   <a href="https://github.com/CZY774">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CZY774&show_icons=true&count_private=true&hide_border=true&bg_color=1f1f1f&text_color=ffffff&icon_color=58a6ff&title_color=58a6ff" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CZY774&langs_count=8&count_private=true&layout=compact&hide_border=true&bg_color=1f1f1f&text_color=ffffff&title_color=58a6ff" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CZY774&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1f1f1f&text_color=ffffff&icon_color=58a6ff&title_color=58a6ff" alt="GitHub Stats"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CZY774&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=1f1f1f&text_color=ffffff&title_color=58a6ff" alt="Top Languages"/>
   </a>
 </p>
-
-## <img src="https://media.giphy.com/media/utz68KlKM5LGBVF6HZ/giphy.gif" width="25px" alt="rocket"> Quotes of the day
+## 🚀 Quotes of the day
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 <br/>
 <br/>
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CZY774&hide_border=true&background=1f1f1f&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=ffffff" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CZY774&theme=tokyonight&hide_border=true&background=1f1f1f&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=ffffff" alt="GitHub Streak" />
 </div>
 
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="waving hand"> Get In Touch
