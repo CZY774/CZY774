@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Selamat Datang! 👋</h1>
+  <h1>Hello there! 👋</h1>
   <h3>I'm a Full-Stack Developer with a passion for elegant solutions</h3>
 </div>
 
