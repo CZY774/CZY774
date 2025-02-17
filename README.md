@@ -67,6 +67,7 @@ fun main() {
 ---
 
 <div align="center">
+  <p style="font-size: 24px; font-weight: 900;">Get In Touch</p>
   <h2 style="border-bottom: none;">Get In Touch</h2>
   <a href="https://www.instagram.com/corneliusyoga" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;
   <a href="https://www.linkedin.com/in/cornelius-yoga-783b6a291" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
