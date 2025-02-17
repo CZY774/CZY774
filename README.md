@@ -22,10 +22,10 @@ I'm a versatile developer who bridges the gap between frontend elegance and back
 
 ```kotlin
 class Developer {
-    val name = "Muhammad Dzaki"
+    val name = "Cornelius Ardhani Yoga Pratama"
     val role = "Full-Stack Developer"
     val languagesSpoken = listOf("id_ID", "en_US")
-    val codeWith = listOf("Kotlin", "JavaScript", "Python", "PHP", "Java", "C++", "R")
+    val codeWith = listOf("Kotlin", "JavaScript", "Python", "PHP", "Java", "C++", "C", "R")
     val challenge = "Building seamless experiences across the entire stack"
     
     fun sayHi() {
@@ -55,6 +55,7 @@ fun main() {
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![C]
 
 ### Database & Infrastructure
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
