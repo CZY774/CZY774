@@ -46,11 +46,7 @@ fun main() {
   </a>
 </p>
 
-## 🚀 Current Focus
-
-I'm currently exploring microservices architecture and improving my skills in cloud-native development. Always looking to collaborate on innovative projects that push the boundaries of what's possible.
-
-<br/>
+## 🚀 Quotes of the day
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
