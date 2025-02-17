@@ -53,6 +53,7 @@ fun main() {
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CZY774&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=1f1f1f&text_color=ffffff&title_color=58a6ff" alt="Top Languages"/>
   </a>
 </p>
+
 ## <img src="https://media.giphy.com/media/utz68KlKM5LGBVF6HZ/giphy.gif" width="25px" alt="rocket"> Quotes of the day
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
