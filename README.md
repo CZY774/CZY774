@@ -80,5 +80,6 @@ fun main() {
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=CZY774&style=flat-square&color=0366D6" alt="Profile Views" />
+  <h3>Let's build something amazing together!</h3>
   <sub>Made by Cornelius Ardhani Yoga Pratama</sub>
 </div>
