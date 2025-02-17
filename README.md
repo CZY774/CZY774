@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Hi,+I'm+Cornelius+Yoga;Full-Stack+Developer;Building+elegant+solutions" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=32&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Hello+there;I'm+Cornelius+Yoga;Full-Stack+Developer;" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -16,7 +16,7 @@ I'm a versatile developer who bridges the gap between frontend elegance and back
 class Developer {
     val name = "Cornelius Ardhani Yoga Pratama"
     val role = "Full-Stack Developer"
-    val languagesSpoken = listOf("id_ID", "en_US")
+    val languagesSpoken = listOf("id_ID", "en_US", "jv_ID")
     val codeWith = listOf("Kotlin", "JavaScript", "Python", "PHP", "Java", "C++", "C", "R")
     val challenge = "Building seamless experiences across the entire stack"
     
