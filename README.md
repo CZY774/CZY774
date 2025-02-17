@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter+Bold&size=50&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Hello+there;I'm+Cornelius+Yoga;Full-Stack+Developer;" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=50&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Hello+there;I'm+Cornelius+Yoga;Let's+Collaborate!;" alt="Typing SVG" />
 </div>
 
 <p align="center">
@@ -33,9 +33,26 @@ fun main() {
 
 ## 🛠️ Tech Stack
 
+### 💻 Languages & Frameworks
 <div align="center">
-  <a href="#"><img src="https://skillicons.dev/icons?i=python,js,php,java,kotlin,cpp,c,r,laravel,bootstrap,tailwind,html,css,mysql,mongodb,sqlite,redis,gcp&perline=6" alt="Skills" /></a>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=python,js,php,java,kotlin,cpp,c,r&perline=8" alt="Programming Languages" />
+  </a>
+  <br/>
+  <br/>
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=laravel,bootstrap,tailwind,html,css&perline=5" alt="Frameworks" />
+  </a>
 </div>
+
+### 🗄️ Database & Infrastructure
+<div align="center">
+  <a href="#">
+    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,redis,gcp&perline=5" alt="Database & Infrastructure" />
+  </a>
+</div>
+
+<br/>
 
 ## 📊 GitHub Stats
 
@@ -62,6 +79,7 @@ fun main() {
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=CZY774&style=flat-square&color=blue" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=CZY774&style=flat-square&color=0366D6" alt="Profile Views" />
   <h3>Let's build something amazing together!</h3>
+  <sub>Made by Cornelius Ardhani Yoga Pratama</sub>
 </div>
