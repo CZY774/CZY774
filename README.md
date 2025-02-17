@@ -1,14 +1,33 @@
 <div align="center">
-  <div style="background-color:#0d1117; padding:40px 20px; border-radius:10px; margin-bottom:30px">
-    <span style="font-size:14px; background-color:#1f6feb; color:white; padding:4px 12px; border-radius:20px;">Hello there!</span>
-    <h1 style="font-size:52px; margin-top:20px; margin-bottom:10px; background:linear-gradient(90deg, #4f97ff, #275ea6); -webkit-background-clip:text; -webkit-text-fill-color:transparent;">CORNELIUS <span style="font-weight:300">YOGA</span></h1>
-    <p style="color:#8b949e; font-size:18px; max-width:600px; margin:0 auto 20px;">Transforming ideas into impactful digital experiences through innovative solutions and technical excellence.</p>
-    <div style="display:flex; justify-content:center; gap:20px; margin-top:25px;">
-      <span style="background-color:#161b22; color:#58a6ff; padding:6px 14px; border-radius:6px; font-size:14px;">Full-Stack Developer</span>
-      <span style="background-color:#161b22; color:#58a6ff; padding:6px 14px; border-radius:6px; font-size:14px;">Multimedia Creator</span>
-      <span style="background-color:#161b22; color:#58a6ff; padding:6px 14px; border-radius:6px; font-size:14px;">Problem Solver</span>
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=35&duration=3500&pause=1000&color=5686F5&center=true&vCenter=true&width=500&lines=Hello+there!;I'm+Cornelius+Yoga" alt="Hello there! I'm Cornelius Yoga" />
+  </h1>
+  <p style="margin-top:-10px; margin-bottom:25px; font-size:18px; color:#A0AEC0;">
+    Full-Stack Developer & Multimedia Specialist
+  </p>
+  <div style="display:inline-block; background:rgba(86,134,245,0.1); padding:8px 16px; border-radius:6px; margin-bottom:30px;">
+    <p style="margin:0; color:#5686F5; font-size:14px; font-weight:500;">
+      Transforming ideas into impactful digital experiences
+    </p>
+  </div>
+  
+  <!-- Counter Stats, inspired by your website -->
+  <div style="display:flex; justify-content:center; gap:40px; margin-bottom:30px;">
+    <div>
+      <h2 style="margin:0; font-size:30px; color:#5686F5;">5+</h2>
+      <p style="margin:0; font-size:14px; color:#A0AEC0;">Years Experience</p>
+    </div>
+    <div>
+      <h2 style="margin:0; font-size:30px; color:#5686F5;">300+</h2>
+      <p style="margin:0; font-size:14px; color:#A0AEC0;">Content Produced</p>
+    </div>
+    <div>
+      <h2 style="margin:0; font-size:30px; color:#5686F5;">20+</h2>
+      <p style="margin:0; font-size:14px; color:#A0AEC0;">Involved in Events</p>
     </div>
   </div>
+  
+  <hr style="width:80%; border:0; height:1px; background:#2D3748; margin-bottom:30px;">
 </div>
 
 ## 👨‍💻 About Me
