@@ -1,6 +1,6 @@
 <div align="center">
   <img src="https://github.com/{username}/blob/main/wave.gif" width="100">
-  <h2>Hai! Saya {nama lengkap Anda}</h2>
+  <h2>Hii! I am Cornelius Yoga</h2>
   <p>Developer yang berfokus pada solusi efisien dan skalabel</p>
 </div>
 
