@@ -2,7 +2,7 @@
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Welcome+to+my+GitHub+profile!;Full-stack+Developer;Problem+Solver;Code+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22">
 </div>
 
-# Hello there, I'm Cornelius Yoga <img src="https://raw.githubusercontent.com/{username}/{username}/main/wave.gif" width="30px">
+# Hello there, I'm Cornelius Yoga <img src="https://raw.githubusercontent.com/CZY774/CZY774/main/wave.gif" width="30px">
 
 > *"Code that works is not enough; it must be elegant, efficient, and maintainable."*
 
