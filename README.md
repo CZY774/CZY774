@@ -1,5 +1,8 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=40&duration=3000&pause=1000&color=0366D6&center=true&vCenter=true&width=600&lines=Hello+there!;I'm+Cornelius+Yoga;Let's+Collaborate!;" alt="Typing SVG" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0366D6&height=200&section=header&text=Hello%20there!&fontSize=50&fontColor=ffffff&animation=fadeIn&fontAlignY=30" alt="Header" />
+  <h1 style="border: none; margin-top: -50px;">I'm <span style="color:#0366D6">Cornelius Yoga</span></h1>
+  <p style="font-size: 18px;">Full-Stack Developer crafting elegant digital experiences</p>
+  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation" width="800" />
 </div>
 
 ## 👨‍💻 About Me
@@ -65,9 +68,10 @@ fun main() {
 ---
 
 <div align="center">
-  <p>Get In Touch</p>
+  <h2>Get In Touch</h2>
   <a href="https://www.instagram.com/corneliusyoga" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;
   <a href="https://www.linkedin.com/in/cornelius-yoga-783b6a291" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
+  <a href="https://www.youtube.com/c/CorneliusYoga" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>&nbsp;
   <a href="https://czy.digital" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"></a>
   <br/><br/>
   <img src="https://komarev.com/ghpvc/?username=CZY774&style=flat-square&color=0366D6" alt="Profile Views" />
