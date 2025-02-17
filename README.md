@@ -1,33 +1,7 @@
 <div align="center">
   <h1>
-    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=35&duration=3500&pause=1000&color=5686F5&center=true&vCenter=true&width=500&lines=Hello+there!;I'm+Cornelius+Yoga" alt="Hello there! I'm Cornelius Yoga" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=600&size=35&duration=3500&pause=1000&color=5686F5&center=true&vCenter=true&width=500&lines=Hello+there!;I'm+Cornelius+Yoga;Let's+Collaborate!;" alt="Hello there! I'm Cornelius Yoga" />
   </h1>
-  <p style="margin-top:-10px; margin-bottom:25px; font-size:18px; color:#A0AEC0;">
-    Full-Stack Developer & Multimedia Specialist
-  </p>
-  <div style="display:inline-block; background:rgba(86,134,245,0.1); padding:8px 16px; border-radius:6px; margin-bottom:30px;">
-    <p style="margin:0; color:#5686F5; font-size:14px; font-weight:500;">
-      Transforming ideas into impactful digital experiences
-    </p>
-  </div>
-  
-  <!-- Counter Stats, inspired by your website -->
-  <div style="display:flex; justify-content:center; gap:40px; margin-bottom:30px;">
-    <div>
-      <h2 style="margin:0; font-size:30px; color:#5686F5;">5+</h2>
-      <p style="margin:0; font-size:14px; color:#A0AEC0;">Years Experience</p>
-    </div>
-    <div>
-      <h2 style="margin:0; font-size:30px; color:#5686F5;">300+</h2>
-      <p style="margin:0; font-size:14px; color:#A0AEC0;">Content Produced</p>
-    </div>
-    <div>
-      <h2 style="margin:0; font-size:30px; color:#5686F5;">20+</h2>
-      <p style="margin:0; font-size:14px; color:#A0AEC0;">Involved in Events</p>
-    </div>
-  </div>
-  
-  <hr style="width:80%; border:0; height:1px; background:#2D3748; margin-bottom:30px;">
 </div>
 
 ## 👨‍💻 About Me
