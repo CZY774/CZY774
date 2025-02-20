@@ -12,7 +12,7 @@ class Developer {
     val name = "Cornelius Ardhani Yoga Pratama"
     val role = "Full-Stack Developer"
     val languagesSpoken = listOf("id_ID", "en_US", "jv_ID")
-    val codeWith = listOf("Kotlin", "JavaScript", "Python", "PHP", "Java", "C++", "C", "R")
+    val codeWith = listOf("Kotlin", "JavaScript", "Python", "PHP", "Java", "C++", "C", "R", "TypeScript")
     val challenge = "Building seamless experiences across the entire stack"
     
     fun sayHi() {
@@ -29,7 +29,7 @@ fun main() {
 ### <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25px" alt="computer"> Languages & Frameworks
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,js,php,java,kotlin,cpp,c,r&perline=8" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=python,js,php,java,kotlin,cpp,c,r,ts&perline=8" alt="Programming Languages" />
   </a>
   <br/>
   <br/>
