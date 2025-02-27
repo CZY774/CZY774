@@ -12,7 +12,7 @@ class Developer {
     val name = "Cornelius Ardhani Yoga Pratama"
     val role = "Full-Stack Developer"
     val languagesSpoken = listOf("id_ID", "en_US", "jv_ID")
-    val codeWith = listOf("Kotlin", "JavaScript", "Python", "PHP", "Java", "C++", "C", "R", "TypeScript")
+    val codeWith = listOf("C", "C++", "JavaScript", "Python", "R", "PHP", "Java", "Kotlin", TypeScript")
     val challenge = "Building seamless experiences across the entire stack"
     
     fun sayHi() {
@@ -29,19 +29,19 @@ fun main() {
 ### <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25px" alt="computer"> Languages & Frameworks
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=python,js,php,java,kotlin,cpp,c,r,ts&perline=8" alt="Programming Languages" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,js,python,r,php,java,kotlin,ts&perline=8" alt="Programming Languages" />
   </a>
   <br/>
   <br/>
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=laravel,bootstrap,tailwind,html,css&perline=5" alt="Frameworks" />
+    <img src="https://skillicons.dev/icons?i=bootstrap,laravel,tailwind&perline=5" alt="Frameworks" />
   </a>
 </div>
 
 ### <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="25px" alt="database"> Database & Infrastructure
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,redis,gcp&perline=5" alt="Database & Infrastructure" />
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,oracle,mongodb,redis,gcp&perline=5" alt="Database & Infrastructure" />
   </a>
 </div>
 <br/>
