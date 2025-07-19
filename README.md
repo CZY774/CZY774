@@ -1,7 +1,11 @@
 <div align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=40&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Hello+there!;I'm+Cornelius+Yoga;Let's+Collaborate!;" alt="Typing SVG" />
   <p style="font-size: 18px;">Full-Stack Developer crafting elegant digital experiences</p>
-  <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Grid Snake Animation" width="800" />
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CZY774/CZY774/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CZY774/CZY774/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CZY774/CZY774/output/github-contribution-grid-snake.svg">
+  </picture>
 </div>
 
 ## <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="25px" alt="programmer"> About Me
