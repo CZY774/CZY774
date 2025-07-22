@@ -33,7 +33,7 @@ fun main() {
 ### <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25px" alt="computer"> Languages & Frameworks
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,python,r,php,java,kotlin,ts,cs,bootstrap,laravel,flask,tailwind,spring,react&perline=8" alt="Languages and Framework" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,python,r,php,java,kotlin,ts,cs,bootstrap,laravel,flask,tailwind,spring,react,svelte&perline=8" alt="Languages and Framework" />
   </a>
 </div>
 
