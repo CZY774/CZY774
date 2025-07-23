@@ -16,13 +16,14 @@ class Developer {
     val name = "Cornelius Ardhani Yoga Pratama"
     val role = "Full-Stack Developer"
     val languagesSpoken = listOf("id_ID", "en_US", "jv_ID")
-    val codeWith = listOf("C", "C++", "JavaScript", "Python", "R", "PHP", "Java", "Kotlin", "TypeScript", "C#")
+    val codeWith = listOf("C", "C++", "JavaScript", "Python", "R", "PHP", "Java", "Kotlin", "TypeScript", "C#", "Dart", "Rust", "Go", "Zig")
     val challenge = "Building seamless experiences across the entire stack"
     
     fun sayHi() {
         println("Thanks for dropping by! Let's build something amazing together.")
     }
 }
+
 fun main() {
     val me = Developer()
     me.sayHi()
@@ -33,14 +34,14 @@ fun main() {
 ### <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25px" alt="computer"> Languages & Frameworks
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,python,r,php,java,kotlin,ts,cs,bootstrap,laravel,flask,tailwind,spring,react,svelte&perline=8" alt="Languages and Framework" />
+    <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,python,r,php,java,kotlin,ts,cs,bootstrap,laravel,flask,tailwind,spring,react,alpinejs,vue,ktor,svelte,prisma,express,flutter,threejs,nodejs,fastapi,django,materialui,dart,rust,go,zig&perline=8" alt="Languages and Framework" />
   </a>
 </div>
 
 ### <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="25px" alt="database"> Database & Infrastructure
 <div align="center">
   <a href="#">
-    <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb,redis,postgres,gcp,docker,vue&perline=5" alt="Database & Infrastructure" />
+    <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb,redis,postgres,firebase,cassandra,gcp,docker,gradle,vite,graphql,grafana&perline=5" alt="Database & Infrastructure" />
   </a>
 </div>
 <br/>
@@ -49,7 +50,7 @@ fun main() {
 <p align="center">
   <a href="https://github.com/CZY774">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CZY774&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1f1f1f&text_color=ffffff&icon_color=58a6ff&title_color=58a6ff" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CZY774&langs_count=8&count_private=true&layout=compact&theme=tokyonight&hide_border=true&bg_color=1f1f1f&text_color=ffffff&title_color=58a6ff" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CZY774&langs_count=8&hide=scss,css&layout=compact&theme=tokyonight&hide_border=true&bg_color=1f1f1f&text_color=ffffff&title_color=58a6ff" alt="Top Languages"/>
   </a>
 </p>
 
