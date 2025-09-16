@@ -50,7 +50,7 @@ fun main() {
 <p align="center">
   <a href="https://github.com/CZY774">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CZY774&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1f1f1f&text_color=ffffff&icon_color=58a6ff&title_color=58a6ff" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CZY774&langs_count=8&hide=scss,css&layout=compact&theme=tokyonight&hide_border=true&bg_color=1f1f1f&text_color=ffffff&title_color=58a6ff" alt="Top Languages"/>
+    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CZY774&langs_count=8&hide=scss,css,html&layout=compact&theme=tokyonight&hide_border=true&bg_color=1f1f1f&text_color=ffffff&title_color=58a6ff" alt="Top Languages"/>
   </a>
 </p>
 
