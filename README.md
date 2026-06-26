@@ -1,77 +1,115 @@
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Inter&weight=800&size=40&duration=3000&pause=1000&color=4F46E5&center=true&vCenter=true&width=600&lines=Hello+there!;I'm+Cornelius+Yoga;Let's+Collaborate!;" alt="Typing SVG" />
-  <p style="font-size: 18px;">Full-Stack Developer crafting elegant digital experiences</p>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/CZY774/CZY774/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/CZY774/CZY774/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/CZY774/CZY774/output/github-contribution-grid-snake.svg">
-  </picture>
-</div>
+ # Cornelius Ardhani Yoga Pratama
 
-## <img src="https://media.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif" width="25px" alt="programmer"> About Me
-I'm a versatile developer who bridges the gap between frontend elegance and backend robustness. With a keen eye for detail and a commitment to clean code, I build solutions that not only work flawlessly but also provide exceptional user experiences.
+  Full-stack developer focused on internal tools, operational workflows, and AI-assisted software delivery.
 
-```kotlin
-class Developer {
-    val name = "Cornelius Ardhani Yoga Pratama"
-    val role = "Full-Stack Developer"
-    val languagesSpoken = listOf("id_ID", "en_US", "jv_ID")
-    val codeWith = listOf("C", "C++", "JavaScript", "Python", "R", "PHP", "Java", "Kotlin", "TypeScript", "C#", "Dart", "Rust", "Go", "Zig")
-    val challenge = "Building seamless experiences across the entire stack"
-    
-    fun sayHi() {
-        println("Thanks for dropping by! Let's build something amazing together.")
-    }
-}
+  I build web and mobile applications with TypeScript, SvelteKit, Supabase, PostgreSQL, Kotlin, Jetpack Compose,
+  Laravel, and MySQL. My strongest work sits around full-stack product delivery, offline-capable applications, database-
+  backed workflows, and practical deployment discipline.
 
-fun main() {
-    val me = Developer()
-    me.sayHi()
-}
-```
+  I prefer showing working projects, live deployments, source code, architecture notes, and known limitations instead of
+  making broad claims without evidence.
 
-## <img src="https://media.giphy.com/media/Day1AgFfMBsrL6BTpF/giphy.gif" width="25px" alt="tools"> Tech Stack
-### <img src="https://media.giphy.com/media/j2pOGeGYKe2xCCKwfi/giphy.gif" width="25px" alt="computer"> Languages & Frameworks
-<div align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=cpp,c,html,css,js,python,r,php,java,kotlin,ts,cs,bootstrap,laravel,flask,tailwind,spring,react,alpinejs,vue,ktor,svelte,prisma,express,flutter,threejs,nodejs,fastapi,django,materialui,dart,rust,go,zig&perline=8" alt="Languages and Framework" />
-  </a>
-</div>
+  ## Featured Work
 
-### <img src="https://media.giphy.com/media/dMLmQfCO7lCA2gX3tw/giphy.gif" width="25px" alt="database"> Database & Infrastructure
-<div align="center">
-  <a href="#">
-    <img src="https://skillicons.dev/icons?i=sqlite,mysql,mongodb,redis,postgres,firebase,cassandra,gcp,docker,gradle,vite,graphql,grafana&perline=5" alt="Database & Infrastructure" />
-  </a>
-</div>
-<br/>
+  ### CZMoney
+  Personal finance PWA built with SvelteKit, Supabase, IndexedDB, Upstash Redis, and Google Gemini API.
 
-## <img src="https://media.giphy.com/media/JrXas5ecb4FkwbFpIE/giphy.gif" width="25px" alt="stats"> GitHub Stats
-<p align="center">
-  <a href="https://github.com/CZY774">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CZY774&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=1f1f1f&text_color=ffffff&icon_color=58a6ff&title_color=58a6ff" alt="GitHub Stats"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=CZY774&langs_count=8&hide=scss,css,html&layout=compact&theme=tokyonight&hide_border=true&bg_color=1f1f1f&text_color=ffffff&title_color=58a6ff" alt="Top Languages"/>
-  </a>
-</p>
+  Highlights:
+  - Supabase Auth and PostgreSQL-backed data
+  - Offline viewing and queued transaction sync
+  - AI-assisted monthly finance summaries
+  - Rate limiting and idempotency support
+  - CSV and PDF export
+  - Live deployment on Vercel
 
-## <img src="https://media.giphy.com/media/utz68KlKM5LGBVF6HZ/giphy.gif" width="25px" alt="rocket"> Quotes of the day
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
-</div>
-<br/>
-<br/>
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=CZY774&theme=tokyonight&hide_border=true&background=1f1f1f&stroke=58a6ff&ring=58a6ff&fire=58a6ff&currStreakNum=ffffff&sideNums=ffffff&currStreakLabel=58a6ff&sideLabels=58a6ff&dates=ffffff" alt="GitHub Streak" />
-</div>
+  Links:
+  - Live app: https://czmoney.vercel.app
+  - Repository: https://github.com/CZY774/czmoney
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px" alt="waving hand"> Get In Touch
-<div align="center">
-  <a href="https://www.instagram.com/corneliusyoga" target="_blank"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"></a>&nbsp;
-  <a href="https://www.linkedin.com/in/cornelius-yoga-783b6a291" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>&nbsp;
-  <a href="https://www.youtube.com/channel/UCj0TlW5vLO6r_Nlwc8oFBpw" target="_blank"><img src="https://img.shields.io/badge/YouTube-%23FF0000.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>&nbsp;
-  <a href="https://corneliusyoga.vercel.app" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=react&logoColor=white" alt="Portfolio"></a>
-  <br/><br/>
-  <img src="https://komarev.com/ghpvc/?username=CZY774&style=flat-square&color=0366D6" alt="Profile Views" />
-  <br/>
-  <sub>Made by Cornelius Ardhani Yoga Pratama</sub>
-</div>
+  ### Portfolio v2
+  Personal portfolio built with SvelteKit, TypeScript, Tailwind CSS, structured metadata, blog pages, and Vercel
+  deployment.
+
+  Links:
+  - Live site: https://corneliusyoga.vercel.app
+  - Repository: https://github.com/CZY774/portfolio-v2
+
+  ### TanyaBuah
+  Educational Android fruit recognition app using Kotlin, Jetpack Compose, TensorFlow Lite, and MobileNetV2.
+
+  Link:
+  - Repository: https://github.com/CZY774/TTU
+
+  ### Muncul River Tubing
+  Tourism information website built with Laravel and MySQL for stakeholder use.
+
+  Link:
+  - Live site: https://munculrivertubing.com
+
+  ## Current Focus
+
+  - Full-stack TypeScript applications
+  - Internal tools and operational systems
+  - AI-assisted development workflows with Codex and Claude
+  - Repository-level agent instructions and verification loops
+  - Backend/API design, validation, and deployment discipline
+  - Offline-first and database-backed application patterns
+
+  ## Technical Stack
+
+  Primary:
+  - TypeScript
+  - SvelteKit
+  - Tailwind CSS
+  - Supabase
+  - PostgreSQL
+  - Redis
+  - Kotlin
+  - Jetpack Compose
+  - Laravel
+  - MySQL
+  - Vercel
+
+  Also used in projects:
+  - React
+  - Next.js
+  - Flask
+  - MongoDB
+  - Firebase
+  - TensorFlow Lite
+  - Docker
+  - GitHub Actions
+
+  ## Engineering Habits
+
+  I try to keep claims conservative and verifiable. Before treating a project as ready to show, I care about:
+
+  - Clear README documentation
+  - Environment variable examples
+  - Known limitations
+  - Input validation
+  - Authentication boundaries
+  - Deployment notes
+  - Basic security headers where applicable
+  - Repeatable verification commands
+
+  Common verification commands I use in recent SvelteKit projects:
+
+  ```bash
+  npm run check
+  npm run lint
+  npm run build
+
+  ## Background
+
+  - Informatics Engineering graduate
+  - IT Development Intern at PT Sumber Alfaria Trijaya Tbk, focused on Supply and Distribution workflows
+  - Former teaching assistant for core computer science courses
+  - Experience coordinating technical events, committees, and stakeholder-facing projects
+
+  ## Links
+
+  - Portfolio: https://corneliusyoga.vercel.app
+  - GitHub: https://github.com/CZY774
+  - LinkedIn: https://www.linkedin.com/in/cornelius-yoga-783b6a291
+  - YouTube: https://youtube.com/@CZY774
